@@ -1,9 +1,5 @@
 ## Hi there 👋
-
-<!--
-**Florihanna-HN45/Florihanna-HN45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Hello, I'm Hoa Nguyen aka Florihanna or **Hứa Thị Hoa =)) ** 👋
+## Hello, I'm Hoa Nguyen aka Florihanna or **Hứa Thị Hoa =)) ** 👋
 Đến được đây rồi thì chào nhau cái nhể ^^
 
 ![](https://komarev.com/ghpvc/?username=Florihanna-HN45&color=blue)
@@ -23,4 +19,4 @@
 ## 🌟 Projects
 
 Here are a few highlights of the projects I'm working on or have completed:
--->
+Ăng nhăng nhăng, **xà lơ thế thoi, chúc cả nhà học ngoan nhó😊**
