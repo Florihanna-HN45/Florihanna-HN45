@@ -10,7 +10,7 @@
 * 🌍 I'm from **HaNoi, VietNam**.
 * 💻 Proficient in **Sleep, Eat and "Mắng iu" mấy bạn**
 
-## 🛠 Technologies & Tools - Sinh viên ngôn ngữ ^^ cụ thể là ngôn ngữ lập trình
+## 🛠 Sinh viên ngôn ngữ ^^ cụ thể là ngôn ngữ lập trình
 
 * **Languages:** C/C++, Python, Matlab "maybe"
 
@@ -19,4 +19,6 @@
 ## 🌟 Projects
 
 Here are a few highlights of the projects I'm working on or have completed:
-Ăng nhăng nhăng, **xà lơ thế thoi, chúc cả nhà học ngoan nhó😊**
+*
+*
+* Ăng nhăng nhăng, **xà lơ thế thoi, chúc cả nhà học ngoan nhó😊**
