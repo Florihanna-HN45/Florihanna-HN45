@@ -7,6 +7,7 @@
 ## 🚀 About Me
 
 * 🎓 Currently studying at the **University of Transport and Communications**.
+* 🤦‍♀️ Major: **AI & Robotics**.
 * 🌍 I'm from **HaNoi, VietNam**.
 * 💻 Proficient in **Sleep, Eat and "Mắng iu" mấy bạn**
 
