@@ -23,5 +23,3 @@ Here are a few highlights of the projects I'm working on or have completed:
 *
 *
 * Ăng nhăng nhăng, **xà lơ thế thoi, chúc cả nhà học ngoan nhó😊**
-<img width="1020" height="1020" alt="image" src="https://github.com/user-attachments/assets/cb29255b-e3d1-4a63-821f-eceeb4acff7d" />
-** "Hẹ hẹ, quay mông vào khán giả 🤡".
