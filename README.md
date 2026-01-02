@@ -1,5 +1,5 @@
 ## Hi there 👋
-## Hello, I'm Hoa Nguyen aka Florihanna or **Hứa Thị Hoa =)) ** 👋
+## Hello, I'm Hoa Nguyen aka Florihanna 👋
 Đến được đây rồi thì chào nhau cái nhể ^^
 
 ![](https://komarev.com/ghpvc/?username=Florihanna-HN45&color=blue)
