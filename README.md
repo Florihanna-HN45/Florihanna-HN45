@@ -13,7 +13,7 @@
 
 ## 🛠 Sinh viên ngôn ngữ ^^ cụ thể là ngôn ngữ lập trình
 
-* **Languages:** C/C++, Python, Matlab "maybe", HTML, Java
+* **Languages:** C/C++, Python, Matlab "maybe", HTML, SQL, Java
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Florihanna-HN45&layout=compact)
 
